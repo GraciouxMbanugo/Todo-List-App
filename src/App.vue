@@ -76,7 +76,7 @@ import { ref, onMounted, computed, watch } from 'vue'
                                 value="business"
                                 v-model="input_category" />
                             <span class="bubble business"></span>
-                            <div>business</div>
+                            <div>BUSINESS</div>
                         </label>
                         <label>
                             <input
