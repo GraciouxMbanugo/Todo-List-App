@@ -104,7 +104,7 @@ import { ref, onMounted, computed, watch } from 'vue'
                         <input type="checkbox" v-model="todo.done" />
                         <span :class="`bubble ${
                             todo.category == 'business'
-                                        ? 'business'
+                                        ? 'BUSINESS'
                                         : 'personal'
                         }`"></span>
                     </label>
