@@ -86,7 +86,7 @@ import { ref, onMounted, computed, watch } from 'vue'
                                 value="personal"
                                 v-model="input_category" />
                             <span class="bubble personal"></span>
-                            <div>Personal</div>
+                            <div>PERSONAL</div>
                             
                         </label>
                 </div>
