@@ -64,7 +64,7 @@ import { ref, onMounted, computed, watch } from 'vue'
                         type="text"
                         name="content"
                         id="content"
-                        placeholder="example: make a video"
+                        placeholder="example: Attend a party"
                         v-model="input_content" />
                 <h4>Pick a category</h4>
                 <div class="options">
