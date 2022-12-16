@@ -105,7 +105,7 @@ import { ref, onMounted, computed, watch } from 'vue'
                         <span :class="`bubble ${
                             todo.category == 'business'
                                         ? 'BUSINESS'
-                                        : 'personal'
+                                        : 'PERSONAL'
                         }`"></span>
                     </label>
                     <div class="todo-content">
