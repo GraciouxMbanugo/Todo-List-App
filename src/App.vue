@@ -56,7 +56,7 @@ import { ref, onMounted, computed, watch } from 'vue'
 
 
             <section class="create-todo">
-                <h3>CREATE A TODO</h3>
+                <h3>CREATE A TODO LIST</h3>
 
                 <form id="new-todo-form" @submit.prevent="addTodo">
                     <h4>What's on your todo list?</h4>
